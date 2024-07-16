@@ -3,6 +3,8 @@
 ## Description
 This is a survey form created as part of the FreeCodeCamp Responsive Web Design certification. It fulfills all the user stories required by the project specifications.
 
+![Survey Form Screenshot](IMG_20240716_162230.jpg)
+
 ## Features
 - Form validation for required fields and email format
 - Custom styling with a nature-inspired color scheme
