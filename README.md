@@ -48,9 +48,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 [MIT](LICENSE)
 
-## Author
-[JohnDev19]
-
 ## Acknowledgements
 - FreeCodeCamp for providing the project guidelines and learning resources
 - [Font Awesome](https://fontawesome.com/) for the icons used in the project
